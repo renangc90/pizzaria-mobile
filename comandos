@@ -1,0 +1,22 @@
+instalar global o expo
+npm install --global expo-cli
+
+
+criar projeto
+npx create-expo-app my-app
+com ts
+npx create-expo-app -t expo-template-blank-typescript
+
+
+rodar
+npx expo start
+
+navegacao
+npx expo install @react-navigation/native
+npx expo install react-native-screens react-native-safe-area-context
+menu
+npx expo install @react-navigation/native-stack
+
+
+localstorage
+npx expo install @react-native-async-storage/async-storage
