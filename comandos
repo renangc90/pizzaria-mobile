@@ -20,3 +20,7 @@ npx expo install @react-navigation/native-stack
 
 localstorage
 npx expo install @react-native-async-storage/async-storage
+
+
+instalar axios pra http
+npx expo install axios
